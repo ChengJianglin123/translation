@@ -1,0 +1,15 @@
+pillow==10.2.0
+pygtrans==1.5.3
+selenium==3.141.0
+requests==2.31.0
+pandas==2.0.3
+psutil==5.9.0
+moviepy==1.0.3
+numpy==1.24.3
+openpyxl==3.1.5
+xmindparser==1.0.9
+matplotlib==3.7.5
+beautifulsoup4==4.12.3
+filetype==1.2.0
+pandas==2.0.3
+pygtrans==1.5.3
